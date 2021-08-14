@@ -19,6 +19,12 @@ add 6
 
 modify master 1
 
+modify dev 1
+
 modify issue_01 1
 
 modify issue_03
+
+modify dev 2
+
+modify dev 2
