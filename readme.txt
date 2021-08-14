@@ -1,4 +1,4 @@
 ---Git is a distributed version control system? 
 ---Yes, that's right.
----Git is free software?
+---Git is a free distributd software under the GPL?
 ---Yes, it's totally free.
